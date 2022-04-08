@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sdhkishore.github.io/csb-ez72ze/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sdhkishore.github.io/csb-ez72ze/static/js/main.c4f98645.chunk.js",
+    "main.js.map": "https://sdhkishore.github.io/csb-ez72ze/static/js/main.c4f98645.chunk.js.map",
+    "runtime-main.js": "https://sdhkishore.github.io/csb-ez72ze/static/js/runtime-main.7f7ca3c7.js",
+    "runtime-main.js.map": "https://sdhkishore.github.io/csb-ez72ze/static/js/runtime-main.7f7ca3c7.js.map",
+    "static/js/2.90218362.chunk.js": "https://sdhkishore.github.io/csb-ez72ze/static/js/2.90218362.chunk.js",
+    "static/js/2.90218362.chunk.js.map": "https://sdhkishore.github.io/csb-ez72ze/static/js/2.90218362.chunk.js.map",
+    "index.html": "https://sdhkishore.github.io/csb-ez72ze/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sdhkishore.github.io/csb-ez72ze/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.90218362.chunk.js.LICENSE.txt": "https://sdhkishore.github.io/csb-ez72ze/static/js/2.90218362.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f7ca3c7.js",
+    "static/js/2.90218362.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c4f98645.chunk.js"
+  ]
+}
